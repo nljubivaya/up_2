@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\views\\addproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\views\\addproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\converters\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\converters\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\views\\addproduct.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\views\\addproduct.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\views\\avtorization.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\views\\avtorization.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\views\\addproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\views\\addproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\viewmodels\\avtorizationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\viewmodels\\avtorizationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\viewmodels\\showproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\viewmodels\\showproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\viewmodels\\addproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\up2\\up2\\viewmodels\\showproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E76735A-F4F1-417B-A0E7-8FD41044A7FD}|UP2\\WriteAndErase.csproj|solutionrelative:up2\\viewmodels\\showproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +70,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Converters\\ImageConverter.cs",
+              "RelativeDocumentMoniker": "UP2\\Converters\\ImageConverter.cs",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Converters\\ImageConverter.cs*",
+              "RelativeToolTip": "UP2\\Converters\\ImageConverter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:31:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Avtorization.axaml",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\Avtorization.axaml",
+              "RelativeDocumentMoniker": "UP2\\Views\\Avtorization.axaml",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\Avtorization.axaml",
+              "RelativeToolTip": "UP2\\Views\\Avtorization.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T20:24:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvtorizationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\AvtorizationVM.cs",
+              "RelativeDocumentMoniker": "UP2\\ViewModels\\AvtorizationVM.cs",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\AvtorizationVM.cs",
+              "RelativeToolTip": "UP2\\ViewModels\\AvtorizationVM.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:21:37.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AddProductVM.cs",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\AddProductVM.cs",
               "RelativeDocumentMoniker": "UP2\\ViewModels\\AddProductVM.cs",
@@ -71,12 +121,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddProduct.axaml",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\AddProduct.axaml",
               "RelativeDocumentMoniker": "UP2\\Views\\AddProduct.axaml",
-              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\AddProduct.axaml*",
-              "RelativeToolTip": "UP2\\Views\\AddProduct.axaml*",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\AddProduct.axaml",
+              "RelativeToolTip": "UP2\\Views\\AddProduct.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-14T19:07:00.89Z",
               "EditorCaption": ""
@@ -89,26 +139,25 @@
               "RelativeDocumentMoniker": "UP2\\Views\\AddProduct.axaml.cs",
               "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\AddProduct.axaml.cs",
               "RelativeToolTip": "UP2\\Views\\AddProduct.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T19:07:00.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ShowProduct.axaml",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\ShowProduct.axaml",
               "RelativeDocumentMoniker": "UP2\\Views\\ShowProduct.axaml",
               "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\Views\\ShowProduct.axaml",
               "RelativeToolTip": "UP2\\Views\\ShowProduct.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T18:39:25.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T18:39:25.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "UP2\\ViewModels\\ViewModelBase.cs",
@@ -120,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ShowOrderVM.cs",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ShowOrderVM.cs",
               "RelativeDocumentMoniker": "UP2\\ViewModels\\ShowOrderVM.cs",
@@ -132,7 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "ShowProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ShowProductVM.cs",
+              "RelativeDocumentMoniker": "UP2\\ViewModels\\ShowProductVM.cs",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ShowProductVM.cs",
+              "RelativeToolTip": "UP2\\ViewModels\\ShowProductVM.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAAOkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:37:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "UP2\\ViewModels\\MainWindowViewModel.cs",
@@ -141,18 +203,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T18:39:00.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShowProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ShowProductVM.cs",
-              "RelativeDocumentMoniker": "UP2\\ViewModels\\ShowProductVM.cs",
-              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\UP2\\UP2\\ViewModels\\ShowProductVM.cs",
-              "RelativeToolTip": "UP2\\ViewModels\\ShowProductVM.cs",
-              "ViewState": "AgIAAOAAAAAAAAAAAIBJwOkAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T18:37:11.928Z"
             }
           ]
         },

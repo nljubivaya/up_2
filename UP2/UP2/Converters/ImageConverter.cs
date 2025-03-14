@@ -14,7 +14,7 @@ namespace UP2.Converters
     {
         public object? Convert(object? value, Type targetType, object? parameter, CultureInfo culture)
         {
-            return value == null ? new Bitmap(AssetLoader.Open(new Uri("avares://UP2/Assets/picture.png"))) : new Bitmap(AssetLoader.Open(new Uri($"avares://UP2/Assets/Товар_import/{value}")));
+            return value == null ? new Bitmap(AssetLoader.Open(new Uri("avares://WriteAndErase/Assets/picture.png"))) : new Bitmap(AssetLoader.Open(new Uri($"avares://WriteAndErase/Assets/Товар_import/{value}")));
         }
         public object? ConvertBack(object? value, Type targetType, object? parameter, CultureInfo culture)
         {
