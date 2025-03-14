@@ -1,0 +1,109 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			   xmlns:vm="using:UP2.ViewModels"
+			  x:DataType="vm:ShowProductVM"
+			 xmlns:conv="using:UP2.Converters"
+             x:Class="UP2.ShowProduct">
+	
+	<UserControl.Resources>
+		<conv:ImageConverter x:Key="ImageConverter"/>
+		<conv:ImageConverter x:Key="ProviderConverter"/>
+	</UserControl.Resources>
+
+	<StackPanel>
+		<TextBlock Text="Товары" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" Margin="10,0,0,20"/>
+
+		<Grid Margin="20">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
+
+			<Grid.RowDefinitions>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="Auto"/>
+			</Grid.RowDefinitions>
+
+			<ComboBox ItemsSource="{Binding DiscountRanges}"
+					  SelectedItem="{Binding SelectedDiscountRange}"
+					  Width="200" Margin="0,0,20,0" Grid.Column="0" Grid.Row="0">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<TextBlock Text="{Binding}"/>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+
+			<TextBox Watermark="Введите наименование товара" Text="{Binding Search}" Height="50" VerticalAlignment="Top" Margin="0,0,20,0" Grid.Column="1" Grid.Row="0"/>
+
+			<StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="0" Margin="0,0,20,0">
+				<RadioButton Content="По возрастанию" IsChecked="{Binding SortUp}" Margin="0,0,10,0"/>
+				<RadioButton Content="По убыванию" IsChecked="{Binding SortDown}"/>
+			</StackPanel>
+
+			<StackPanel Orientation="Horizontal" Grid.Column="3" Grid.Row="0">
+				<TextBlock Text="{Binding SortRecords}" />
+				<TextBlock Text=" из" />
+				<TextBlock Text="{Binding TotalRecords}" />
+			</StackPanel>
+
+			<StackPanel Orientation="Horizontal" Grid.Column="3" Grid.Row="1" Margin="0,10,0,0">
+				<TextBlock Text="Пользователь: " />
+				<TextBlock Text="{Binding CurrentUser.FullName}" Margin="5,0,5,0"/>
+				<TextBlock Text="Роль: " />
+				<TextBlock Text="{Binding CurrentUser.Role}" />
+			</StackPanel>
+			<StackPanel Orientation="Horizontal" Grid.Column="4" Grid.Row="1" Margin="0,30,0,0">
+				<Button Command="{Binding ToLast}">Назад </Button>
+				<Button Command="{Binding ToOrder}">Заказ </Button>
+			</StackPanel>
+		</Grid>
+
+		<ScrollViewer Margin="10" BorderThickness="2" BorderBrush="Green" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+			<Border BorderBrush="Gray" BorderThickness="1" Margin="10" Padding="10" Background="RGB(118, 227, 131)">
+				<StackPanel>
+					<ListBox ItemsSource="{Binding ProductList}" Height="450">
+						
+						<ListBox.ItemTemplate>
+							<DataTemplate>
+								<Grid>
+									<Grid.ColumnDefinitions>
+										<ColumnDefinition Width="Auto" />
+										<ColumnDefinition Width="*" />
+										<ColumnDefinition Width="Auto" />
+									</Grid.ColumnDefinitions>
+									<Image Height="100" Width="100" Source="{Binding Image, Converter={StaticResource ImageConverter}}" Margin="5" Grid.Column="0" />
+									<StackPanel Grid.Column="1" Margin="5">
+										<TextBlock Text="{Binding Name}" TextWrapping="Wrap" Margin="0,5,0,0" FontSize="16" FontWeight="Bold"/>
+										<TextBlock Text="{Binding Description}" TextWrapping="Wrap" Margin="0,5,0,0"/>
+										<TextBlock>
+											<Run Text="Производитель:" />
+											<Run Text="{Binding ProviderNavigation.Name, FallbackValue='Без имени'}"/>
+										</TextBlock>
+										<TextBlock>
+											<Run Text="Цена:" />
+											<Run Text="{Binding Cost, StringFormat={}{0:F1}}"/>
+										</TextBlock>
+
+										<Button Command="{Binding $parent[UserControl].((vm:ShowProductVM)DataContext).AddZakaz}" CommandParameter="{Binding}">Добавить в корзину</Button>
+									</StackPanel>
+									<StackPanel Grid.Column="2" Margin="5" VerticalAlignment="Center">
+										<TextBlock Text="{Binding CurrentDiscount, StringFormat={}{0:F1}}}" TextWrapping="Wrap" Margin="0,5,0,0"/>
+									</StackPanel>
+								</Grid>
+							</DataTemplate>
+						</ListBox.ItemTemplate>
+					</ListBox>
+					
+				</StackPanel>
+			</Border>
+		</ScrollViewer>
+	</StackPanel>
+
+
+</UserControl>
