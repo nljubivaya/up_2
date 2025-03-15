@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\",
+  "WorkspaceRootPath": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClassLibrary1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDF7CCBE-1C8F-4E77-9FE8-BEFCCE6788A0}|TestProject1\\TestProject1.csproj|c:\\users\\yevge\\source\\repos\\classlibrary1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDF7CCBE-1C8F-4E77-9FE8-BEFCCE6788A0}|TestProject1\\TestProject1.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\classlibrary1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF7CCBE-1C8F-4E77-9FE8-BEFCCE6788A0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302D2910-F77D-481F-ACDF-DA55D2E2F7BE}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\yevge\\source\\repos\\classlibrary1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302D2910-F77D-481F-ACDF-DA55D2E2F7BE}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{302D2910-F77D-481F-ACDF-DA55D2E2F7BE}|ClassLibrary1\\SF2022User{NN}Lib.csproj|c:\\users\\yevge\\source\\repos\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\classlibrary1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302D2910-F77D-481F-ACDF-DA55D2E2F7BE}|ClassLibrary1\\SF2022User{NN}Lib.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClassLibrary1\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\TestProject1\\UnitTest1.cs*",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs*",
-              "ViewState": "AgIAAPkAAAAAAAAAAAAYwBkBAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClassLibrary1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAN8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T14:43:19.848Z",
               "EditorCaption": ""
@@ -49,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yevge\\source\\repos\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T14:37:12.087Z",
               "EditorCaption": ""

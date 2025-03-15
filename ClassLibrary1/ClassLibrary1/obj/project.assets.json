@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
+      "projectUniqueName": "C:\\Users\\Yevge\\source\\repos\\Новая папка\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
       "projectName": "SF2022User{NN}Lib",
-      "projectPath": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
+      "projectPath": "C:\\Users\\Yevge\\source\\repos\\Новая папка\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
       "packagesPath": "C:\\Users\\Yevge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\Yevge\\source\\repos\\Новая папка\\ClassLibrary1\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yevge\\AppData\\Roaming\\NuGet\\NuGet.Config",

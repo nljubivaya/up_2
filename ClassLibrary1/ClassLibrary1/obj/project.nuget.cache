@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmECLMpSm20=",
+  "dgSpecHash": "Q/Lef5A4IgY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yevge\\source\\repos\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
+  "projectFilePath": "C:\\Users\\Yevge\\source\\repos\\Новая папка\\ClassLibrary1\\ClassLibrary1\\SF2022User{NN}Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yevge\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512",
     "C:\\Users\\Yevge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
